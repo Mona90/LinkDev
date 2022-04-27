@@ -1,0 +1,14 @@
+.show-more,
+.show-more:hover {
+  text-decoration: none;
+  font-size: 14px;
+}
+.show-more .arrow-icon {
+  width: 20px;
+  height: 20px;
+  border: 1px solid;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
