@@ -19,7 +19,6 @@ function LatestNews() {
             return new Date(b.published) - new Date(a.published);
           })
           setData(newsSorting)
-          console.log('request',  data)
       }catch(error){
          console.log(error)
       }

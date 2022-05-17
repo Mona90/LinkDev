@@ -5,7 +5,6 @@ import TopSection from '../Components/TopSection/TopSection'
 import Footer from '../Components/Footer/Footer'
 
 function HomePage(props) {
-  console.log('testtttt', props.path)
 
   return (
     <>
